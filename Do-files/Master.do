@@ -9,7 +9,7 @@ set more off
 
 * Set path to main directory for current user
 
-global main	"C:\Users\iks46\Dropbox\Current Projects\India Sanitation\Data\Replication - Git"
+global main	"[add path here]"
 
 * Subfolders
  
